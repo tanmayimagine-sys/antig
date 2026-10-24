@@ -1,0 +1,11 @@
+node_modules/
+.next/
+dist/
+out/
+.env*.local
+.env
+*.log
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+.DS_Store
+legacy_frontend/
